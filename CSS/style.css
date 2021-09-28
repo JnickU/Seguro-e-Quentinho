@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #121015;
+}
+
+.init{
+    text-align: center;
+}
+
+#fogueira{
+    position: absolute;
+    display: inline-block;
+    width: 300px;
+    top: 50%;
+    transform:translate(-50%, -50%);
+}
+
+#titulo{
+    font-family: 'Noto Serif', serif;
+    padding: 50px;
+    color:#f3f7f8
+}
+.play{
+    position: absolute;
+    width: 40px;
+    display: inline-block;
+    color:#f3f7f8;
+    top: 75%;
+    transform: translate(-50%, -73%);
+
+}
